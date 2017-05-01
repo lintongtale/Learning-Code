@@ -12,6 +12,7 @@
 	• git clone git@github.com:lintongtale/test.git 从远程克隆一个本地库
 		○ ls 列出所有文件
 ## 3、版本控制
+![git状态转移](git-status.png)  
 	• mkdir <file> 创建一个空目录
 		○ cd <file>
 		○ pwd 
